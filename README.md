@@ -665,6 +665,7 @@ hadoop/sbin/hadoop-daemon.sh start datanode --dataNode --dir $(pwd)/hadoop/stora
 
 ### Сравнительная таблица
 
+(данные взяты из файлов report)
 | Эксперимент | Время (с) | RAM (MB) |
 |---|---|---|
 | 1 DataNode + Spark (база) | 8.18 | 57.4 |
